@@ -5,7 +5,7 @@ Calm Blue Disaster is a minimal theme for Homer dashboard implemented in bluish 
 https://user-images.githubusercontent.com/56602996/193428748-b8a4b57b-d3ae-4ca9-bc6c-ddd3f86d000a.mp4
 
 # Applying
-1. Create a `custom.css` file
+1. Create a `custom.css` file in the `assets` directory
 ```css
 @charset "UTF-8";
 
